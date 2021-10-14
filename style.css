@@ -1,0 +1,46 @@
+body {
+    background-color: bisque;
+}
+.F {
+    color: blueviolet;
+    font-size: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img {
+    width: 550px;
+    height: 600px;
+    border-radius: 100%;
+}
+.Pan {
+    font-size: 69px;
+    color: khaki;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.myv {
+    color: lightgreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.myvv {
+    color: lightpink;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.myg {
+    color: mediumpurple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.myggg {
+    color: mediumvioletred;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+.ci {
+    color: olive;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.gmn {
+    color: peru;
+}
+.linkes {
+    color: rosybrown;
+    font-size: 30px;
+}
